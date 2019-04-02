@@ -11,7 +11,7 @@ void division(int a, int b)
 
   assert(b != 0);
   printf("%d/%d = %.2f\n", a, b, a/(float)b);
-
+printf("program demonstrating division using assert\n");
 }
 
 
